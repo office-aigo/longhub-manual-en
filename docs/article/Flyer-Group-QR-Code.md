@@ -20,3 +20,6 @@ Local Host
 
 <img style="width:200px" src="../assets/04.jpg" />
 
+## AiGoLearning Why CEP PPT
+
+AiGoLearning Why CEP PPT：[PPT](https://longhub.org/college/AiGoLearning Why CEP.pptx)
