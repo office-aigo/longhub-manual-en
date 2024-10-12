@@ -1,0 +1,16 @@
+{
+  "name": "LongHub manual",
+  "version": "1.0.6",
+  "description": "LongHub guide",
+  "main": "index.js",
+  "keywords": [],
+  "license": "MIT",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "NODE_OPTIONS=--openssl-legacy-provider vuepress build docs"
+  },
+  "devDependencies": {
+    "@vuepress/plugin-back-to-top": "^1.7.1",
+    "vuepress": "^1.7.1"
+  }
+}
