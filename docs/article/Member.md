@@ -1,5 +1,7 @@
 ## Member（Parents）
 
+[AiGoLearning CEP Free Eval.docx](https://cep.aigolearning.org/AiGoLearning%20CEP%20Free%20Eval.docx)
+
 ## Ⅰ、Register as a Member
 
 Visit the LongHub official website：[https://longhub.org/](https://longhub.org/)
