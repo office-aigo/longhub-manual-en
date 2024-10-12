@@ -1,21 +1,22 @@
-## 考大学宣传单
+## College Entrance Flyer
 
 <img style="width:400px" src="../assets/00.png" />
 
-## 微信交流群二维码
+## WeChat Group Chat QR Code
 
-考大学
+College Entrance
 
 <img style="width:200px" src="../assets/01.jpg" />
 
-找工作
+Job Searching
 
 <img style="width:200px" src="../assets/02.jpg" />
 
-交友群
+Friendship Group
 
 <img style="width:200px" src="../assets/03.jpg" />
 
 Local Host
 
 <img style="width:200px" src="../assets/04.jpg" />
+
