@@ -1,6 +1,3 @@
-## College Entrance Flyer
-
-<img style="width:400px" src="../assets/00.png" />
 
 ## WeChat Group Chat QR Code
 
