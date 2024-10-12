@@ -1,5 +1,7 @@
 ## Professional member
 
+[AiGoLearning Eval Manual.pptx](https://cep.aigolearning.org/AiGoLearning%20Eval%20Manual.pptx)
+
 ## Ⅰ、Professional member Workflow Diagram
 
 <img style="width:500px" src="../assets/06.png" />
@@ -72,13 +74,6 @@ Click `Edit` in the college entrance section to modify the available service off
 ![img](../assets/10.png)
 ![img](../assets/11.png)
 
-### 5.Set available time slots for appointments
-
-Click `Appointment` to set the availability, services that can be booked, and available times. Click 'Add' to create the appointment slots.
-
-![img](../assets/12.png)
-![img](../assets/13.png)
-
 ## Ⅳ、College Entrance
 
 ### 1. Review students
@@ -109,17 +104,3 @@ The feedback interface has added the `AI Evaluation` feature. After clicking it,
 ### 3. Report Review/Send Report
 
 After the mentor provides feedback on the student, clicking submit will notify the admin. Once the admin approves and submits, the student feedback report will be emailed to the student.
-
-## Ⅴ、Appointment Reminder
-
-### 1. Appointment Email Reminder
-
-When a student books an appointment with you, you will receive an email reminder (including the appointment time slots and meeting information).
-
-![img](../assets/20.png)
-
-### 2. Appointment Agency
-
-When a student books an appointment with you, it will also appear in the appointment to-do list in your Profile (including the appointment time slots and meeting information).
-
-![img](../assets/21.png)
