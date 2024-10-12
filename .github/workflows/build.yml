@@ -42,4 +42,4 @@ jobs:
         REMOTE_HOST: ${{ env.SERVER_HOST }}
         REMOTE_USER: ${{ env.USER_NAME }}
         SOURCE: 'docs/.vuepress/dist/'
-        TARGET: '/var/www/aigolearn/uslong/manual'
+        TARGET: '/var/www/aigolearn/college/manual'
