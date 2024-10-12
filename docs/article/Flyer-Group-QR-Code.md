@@ -22,4 +22,4 @@ Local Host
 
 ## AiGoLearning Why CEP PPT
 
-AiGoLearning Why CEP PPT：[PPT](https://longhub.org/college/AiGoLearning Why CEP.pptx)
+AiGoLearning Why CEP PPT：[PPT](https://cep.aigolearning.org/AiGoLearning%20Why%20CEP.pptx)
