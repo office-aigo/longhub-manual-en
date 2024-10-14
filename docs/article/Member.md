@@ -1,6 +1,6 @@
 ## Member（Parents）
 
-[AiGoLearning CEP Free Eval.docx](https://cep.aigolearning.org/AiGoLearning%20CEP%20Free%20Eval.docx)
+[AiGoLearning CEP Free Eval.pdf](https://drive.google.com/file/d/1pyr13mj2gGwjticW4YXhg3ZlgsWH3_zF/view?usp=sharing)
 
 ## Ⅰ、Register as a Member
 
