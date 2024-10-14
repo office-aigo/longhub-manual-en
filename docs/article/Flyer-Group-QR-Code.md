@@ -19,4 +19,4 @@ Local Host
 
 ## AiGoLearning Why CEP PPT
 
-AiGoLearning Why CEP PPT：[[AiGoLearning Why CEP.pptx](https://cep.aigolearning.org/AiGoLearning%20Why%20CEP.pptx)]
+AiGoLearning Why CEP PPT：[[AiGoLearning Why CEP.pdf](https://drive.google.com/file/d/1tuqc-SuMF9cmna-rgjFpMRe32rpDDOle/view?usp=sharing)]
